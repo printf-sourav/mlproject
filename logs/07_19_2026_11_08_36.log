@@ -1,0 +1,6 @@
+[ 2026-07-19 11:08:36,758 ] 18 root - INFO - Logging has started.
+[ 2026-07-19 11:08:36,759 ] 18 root - INFO - Logging has started.
+[ 2026-07-19 11:08:38,440 ] 23 root - INFO - Enter the data ingestion method or componenet
+[ 2026-07-19 11:08:38,444 ] 26 root - INFO - Read data as dataframe
+[ 2026-07-19 11:08:38,447 ] 31 root - INFO - Train test split initiated
+[ 2026-07-19 11:08:38,451 ] 37 root - INFO - data ingestion completed
