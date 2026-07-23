@@ -44,7 +44,6 @@ jobs:
     name: Build and push to ECR
     needs: integrations
     runs-on: ubuntu-latest
-    if: ${{ secrets.AWS_REGION != '' && secrets.AWS_ACCOUNT_ID != '' && secrets.ECR_REPOSITORY != '' }}
     env:
       AWS_REGION: ${{ secrets.AWS_REGION }}
       AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
@@ -78,7 +77,6 @@ jobs:
     name: Continuous deployment
     needs: build-and-push-ecr-image
     runs-on: self-hosted
-    if: ${{ secrets.AWS_REGION != '' && secrets.AWS_ACCOUNT_ID != '' && secrets.ECR_REPOSITORY != '' }}
     env:
       AWS_REGION: ${{ secrets.AWS_REGION }}
       AWS_ACCOUNT_ID: ${{ secrets.AWS_ACCOUNT_ID }}
