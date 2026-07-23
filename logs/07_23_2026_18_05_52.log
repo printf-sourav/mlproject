@@ -1,0 +1,13 @@
+[ 2026-07-23 18:05:52,435 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 18:05:52,435 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 18:05:52,535 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.102:5000
+[ 2026-07-23 18:05:52,535 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2026-07-23 18:05:52,537 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-07-23 21:31:17,748 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-07-23 21:32:33,664 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-07-23 21:32:44,430 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-07-23 21:32:53,654 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-07-23 21:33:48,647 ] 97 werkzeug - INFO -  * Restarting with stat

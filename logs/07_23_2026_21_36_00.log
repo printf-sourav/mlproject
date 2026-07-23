@@ -1,0 +1,6 @@
+[ 2026-07-23 21:36:00,134 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:36:00,135 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:36:00,269 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-07-23 21:36:00,271 ] 97 werkzeug - INFO -  * Debugger PIN: 619-645-427
+[ 2026-07-23 21:36:03,315 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:36:03] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-07-23 21:38:40,758 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\soura\\OneDrive\\Documents\\projects\\mlproject\\app.py', reloading

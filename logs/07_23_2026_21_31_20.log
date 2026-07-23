@@ -1,0 +1,10 @@
+[ 2026-07-23 21:31:20,343 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:31:20,344 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:31:20,536 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-07-23 21:31:20,539 ] 97 werkzeug - INFO -  * Debugger PIN: 619-645-427
+[ 2026-07-23 21:31:20,646 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:31:20] "GET /predictdata HTTP/1.1" 200 -
+[ 2026-07-23 21:31:32,563 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:31:32] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2026-07-23 21:31:32,662 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:31:32] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2026-07-23 21:31:32,663 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:31:32] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2026-07-23 21:31:32,683 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:31:32] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=Vr4IQAr2LiRS1dCHuobZ HTTP/1.1" 200 -
+[ 2026-07-23 21:32:33,305 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\soura\\OneDrive\\Documents\\projects\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading

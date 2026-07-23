@@ -1,0 +1,9 @@
+[ 2026-07-23 21:34:36,060 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:34:36,061 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:34:36,161 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-07-23 21:34:36,163 ] 97 werkzeug - INFO -  * Debugger PIN: 619-645-427
+[ 2026-07-23 21:34:40,976 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:34:40] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2026-07-23 21:34:41,073 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:34:41] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2026-07-23 21:34:41,075 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:34:41] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2026-07-23 21:34:41,100 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 21:34:41] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=PiYbIubtfwdcU3weKDbl HTTP/1.1" 200 -
+[ 2026-07-23 21:35:57,922 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\soura\\OneDrive\\Documents\\projects\\mlproject\\app.py', reloading

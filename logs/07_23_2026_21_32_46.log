@@ -1,0 +1,5 @@
+[ 2026-07-23 21:32:46,552 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:32:46,553 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 21:32:46,683 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-07-23 21:32:46,686 ] 97 werkzeug - INFO -  * Debugger PIN: 619-645-427
+[ 2026-07-23 21:32:53,459 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\soura\\OneDrive\\Documents\\projects\\mlproject\\src\\utils.py', reloading

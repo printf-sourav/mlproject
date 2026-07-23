@@ -1,0 +1,9 @@
+/* Simple custom styles to complement Bootstrap */
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card { border-radius: 12px; }
+.navbar-brand { font-weight: 600; }
+.btn-primary { background-color: #2563eb; border-color: #2563eb; }
+.container img { max-width: 420px; }
+
+/* Utility spacing tweaks */
+.py-5 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
