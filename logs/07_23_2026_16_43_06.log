@@ -1,0 +1,12 @@
+[ 2026-07-23 16:43:06,904 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 16:43:06,905 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 16:43:08,784 ] 25 root - INFO - Enter the data ingestion method or componenet
+[ 2026-07-23 16:43:08,787 ] 28 root - INFO - Read data as dataframe
+[ 2026-07-23 16:43:08,790 ] 33 root - INFO - Train test split initiated
+[ 2026-07-23 16:43:08,794 ] 39 root - INFO - data ingestion completed
+[ 2026-07-23 16:43:08,834 ] 63 root - INFO - Read train and test data completed
+[ 2026-07-23 16:43:08,834 ] 64 root - INFO - Obtaining preprocessor object
+[ 2026-07-23 16:43:08,835 ] 42 root - INFO - Numerical and categorical pipelines created.
+[ 2026-07-23 16:43:08,836 ] 76 root - INFO - applying preprocessor on test and train data
+[ 2026-07-23 16:43:08,868 ] 87 root - INFO - Save preproceesing object
+[ 2026-07-23 16:43:08,870 ] 33 root - INFO - Split training and test data
