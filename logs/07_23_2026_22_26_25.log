@@ -1,0 +1,11 @@
+[ 2026-07-23 22:26:25,024 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 22:26:25,025 ] 18 root - INFO - Logging has started.
+[ 2026-07-23 22:26:25,116 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-07-23 22:26:25,118 ] 97 werkzeug - INFO -  * Debugger PIN: 619-645-427
+[ 2026-07-23 22:26:32,034 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:32] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-07-23 22:26:32,167 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:32] "GET /static/css/style.css HTTP/1.1" 200 -
+[ 2026-07-23 22:26:38,655 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:38] "GET / HTTP/1.1" 200 -
+[ 2026-07-23 22:26:38,701 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-07-23 22:26:38,705 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:38] "GET /static/img/student.svg HTTP/1.1" 200 -
+[ 2026-07-23 22:26:40,934 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:40] "GET /predictdata HTTP/1.1" 200 -
+[ 2026-07-23 22:26:40,974 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Jul/2026 22:26:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
